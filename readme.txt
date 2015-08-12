@@ -48,3 +48,8 @@ Use this plugin is very simple but, if you have any questions, doubts or suggest
 
 = 1.0 =
 * Initial release.
+
+== Upgrade Notice ==
+
+= 1.0 =
+* Initial release.
