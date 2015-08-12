@@ -1,4 +1,4 @@
-=== Google URL Builder ===
+=== Tracking URL Builder for Analytics ===
 Contributors: raldi
 Donate link: http://www.lucaraldiri.it/
 Tags: tracking, google analytics, google, analytics, google url builder, tagging, custom campaign
@@ -46,10 +46,16 @@ Use this plugin is very simple but, if you have any questions, doubts or suggest
 
 == Changelog ==
 
+= 1.0.1 =
+* Resolve a release bug.
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Resolve a release bug.
 
 = 1.0 =
 * Initial release.
