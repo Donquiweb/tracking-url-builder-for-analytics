@@ -5,7 +5,7 @@ Tags: tracking, google analytics, google, analytics, google url builder, tagging
 Requires at least: 2.7
 Tested up to: 4.0
 License: GPLv3
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 A simple form to create url for tracking of custom campaigns on Google Analytics
 
