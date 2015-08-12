@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: 	Tracking URL Builder for Analytics
-Version: 		1.0
+Version: 		1.0.1
 Description: 	A simple form to create url for tracking of custom campaigns on Google Analytics
 Author: 		Luca Raldiri
 Author URI: 	http://www.lucaraldiri.it
